@@ -1,20 +1,20 @@
 # 深空当铺：战斗委托 / Combat Contracts
 
-作者：是大帅鸟。当前版本：0.4.15。
+作者：是大帅鸟。当前版本：0.4.16。
 
 《深空当铺：可能是偷的 / Probably Stolen》原生C#模组，包含七方悬赏、回合制战斗、装备、成长与店内自卫。
 
-- [下载 0.4.15 安装包](https://github.com/shuainiaoda-bit/probably-stolen-combat-contracts/releases/tag/v0.4.15)
+- [下载 0.4.16 安装包](https://github.com/shuainiaoda-bit/probably-stolen-combat-contracts/releases/tag/v0.4.16)
 - [Steam创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3834364038)
 - QQ讨论群：1129395905。欢迎在小黑盒关注「是大帅鸟」。
 
-## 0.4.15更新
+## 0.4.16更新
 
-在当铺右键自有战斗配件，可直接装配或卸下。悬停提示也写明了委托栏里的备用入口。夜间战斗记得带上已装配的配件。
+新增9件战斗改装配件，总数达到15件。解锁战斗委托并达到80改造体声望后，义体维修师铆钉会来当铺。120、170声望开放更多货品。原来的6件仍可在改造体委托交付时三选一。
 
 ## 下载和安装
 
-1. 退出游戏并备份存档，在发行页的Assets下载 **CombatContracts-0.4.15.zip**。
+1. 退出游戏并备份存档，在发行页的Assets下载 **CombatContracts-0.4.16.zip**。
 2. 解压，将 **CombatContracts** 文件夹放入游戏的 **Mods** 文件夹。更新时替换旧的同名文件夹，保留其他模组。
 3. 核对 **Mods/CombatContracts/manifest.xml** 与 **Mods/CombatContracts/CombatContracts.dll** 均存在，文件夹不要重复套一层。
 4. 启动游戏，在原生模组菜单启用本模组，按提示确认后完整退出并重启。
@@ -30,11 +30,11 @@
 
 ## English
 
-Version 0.4.15 by 是大帅鸟 for Probably Stolen. Includes faction bounties, turn-based combat, equipment, progression and shop defense. All 11 official game languages are supported.
+Version 0.4.16 by 是大帅鸟 for Probably Stolen. Includes faction bounties, turn-based combat, equipment, progression and shop defense. All 11 official game languages are supported.
 
-Right-click an owned combat augment in the shop to equip or remove it. Its tooltip also shows the commission board route. Carry equipped augments with you for night combat.
+Nine new combat augments bring the total to 15. After unlocking Combat Contracts, reach 80 Augmented reputation to get a visit from Rivet. More stock unlocks at 120 and 170. The six classic augments remain available through Augmented contracts.
 
-1. Exit the game and back up your saves. Download **CombatContracts-0.4.15.zip** from the [release Assets](https://github.com/shuainiaoda-bit/probably-stolen-combat-contracts/releases/tag/v0.4.15).
+1. Exit the game and back up your saves. Download **CombatContracts-0.4.16.zip** from the [release Assets](https://github.com/shuainiaoda-bit/probably-stolen-combat-contracts/releases/tag/v0.4.16).
 2. Extract **CombatContracts** into the game's **Mods** folder. Replace the old folder when updating and keep other mods.
 3. Check that **Mods/CombatContracts/manifest.xml** and **Mods/CombatContracts/CombatContracts.dll** exist without an extra nested folder.
 4. Enable the mod through the native Mod menu, confirm any prompt, then fully exit and restart.
